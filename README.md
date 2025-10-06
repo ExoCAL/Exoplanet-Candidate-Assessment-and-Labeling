@@ -66,14 +66,6 @@ Developed for the **"A World Away: Hunting for Exoplanets with AI"** challenge.
 
 **Project Page**: [NASA Space Apps 2025 - Team nasa_was_taken1](https://www.spaceappschallenge.org/2025/find-a-team/nasa_was_taken1/?tab=project)
 
-## Repository Structure
-
-    Exo-CAL/
-    ├── exocal/                 # Core ML pipeline
-    ├── data/                   # NASA archive processing
-    ├── notebooks/              # Analysis and validation
-    ├── docs/                   # Technical documentation
-    └── outputs/                # Results and dashboards
 
 
 ---
