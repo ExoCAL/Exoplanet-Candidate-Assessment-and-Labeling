@@ -60,14 +60,4 @@ For complete technical details, see the attached documentation:
 - **Technical specification**: `exo_analysis_wp.pdf` - Mathematical formulation and computational methods
 - **Presentation overview**: `exo_analysis_presentation.pdf` - Key concepts and results summary
 
-## NASA Space Apps Challenge 2025
 
-Developed for the **"A World Away: Hunting for Exoplanets with AI"** challenge. 
-
-**Project Page**: [NASA Space Apps 2025 - Team nasa_was_taken1](https://www.spaceappschallenge.org/2025/find-a-team/nasa_was_taken1/?tab=project)
-
-
-
----
-
-*"In the vast cosmic ocean, every signal tells a story. EXOCAL helps us listen to the whispers of distant worlds."*
